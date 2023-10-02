@@ -10,4 +10,4 @@ The list of projects within Linux is as follows;
 
 4. - [AWS Project 04 : Phonebook Application](./AWS-Project-004-Phonebook-Application/README.md)
 
-5. - [AWS Project 04 : BlogPage](./AWS-Project-005-BlogPage/README.md)
+5. - [AWS Project 05 : BlogPage](./AWS-Project-005-BlogPage/README.md)
